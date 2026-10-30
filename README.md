@@ -23,7 +23,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Application platforms](#application-platforms)
 - [Backup](#backup)
 - [Cloning](#cloning)
-- [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
+- [Monitoring/Statistics/Performance](#monitoringstatisticsperformance)
   - [Prometheus](#prometheus)
   - [Zabbix](#zabbix)
 - [Testing](#testing)
@@ -36,6 +36,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Security](#security)
 - [SQL](#sql)
   - [Analyzers](#analyzers)
+  - [Code Generators](#code-generators)
   - [Extensions](#extensions)
   - [Frameworks](#frameworks)
   - [Formatters](#formatters)
@@ -57,39 +58,39 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Machine Learning](#machine-learning)
 
 ## IDE
-- [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
-- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Productivity software for Database Developers, DBAs, and Analysts.
-- [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - Modern IDE for analyst and analytics engineers with proweful script and grid functionality.
-- [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
-- [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
-- [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
+- [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development 💰 🔒.
+- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Productivity software for Database Developers, DBAs, and Analysts 💰 🔒.
+- [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - Modern IDE for analyst and analytics engineers with powerful script and grid functionality 💰 🔒.
+- [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases 🔒.
+- [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB 💰 🔒.
+- [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains 💰 🔒.
 - [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
-- [dbForge Edge](https://www.devart.com/dbforge/edge/) - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.
-- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - Universal IDE for MySQL and MariaDB database development, management, and administration.
-- [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - Powerful IDE for Oracle management, administration, and development.
-- [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
-- [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
-- [DBHawk](https://www.datasparc.com/) - Datasparc offers database security, database management, database governance and data analytics - all in one solution.
+- [dbForge Edge](https://www.devart.com/dbforge/edge/) - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services 💰 🔒.
+- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - Universal IDE for MySQL and MariaDB database development, management, and administration 💰 🔒.
+- [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - Powerful IDE for Oracle management, administration, and development 💰 🔒.
+- [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects 💰 🔒.
+- [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting 💰 🔒.
+- [DBHawk](https://www.datasparc.com/) - Datasparc offers database security, database management, database governance and data analytics - all in one solution 💰 🔒.
 - [dbKoda](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
-- [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase.
+- [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase 💰 🔒.
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
 - [Kangaroo](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
-- [KeepTool](https://keeptool.com) - A professional suite of tools for Oracle Database developers, administrators and advanced application users.
+- [KeepTool](https://keeptool.com) - A professional suite of tools for Oracle Database developers, administrators and advanced application users 💰 🔒.
 - [MySQL Workbench](https://www.mysql.com/products/workbench) - Unified visual tool for database architects, developers, and DBAs.
-- [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.
-- [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) - Free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments.
+- [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application 💰 🔒.
+- [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) - Free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments 🔒.
 - [pgAdmin](https://www.pgadmin.org) - The most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [pgAdmin3](https://www.bigsql.org/pgadmin3) - Long Term Support for pgAdmin3.
-- [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) - IDE that is specifically targeted at the development of stored program units for Oracle Databases.
-- [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) - Complete and powerful database management, admin and development tool for PostgreSQL.
+- [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) - IDE that is specifically targeted at the development of stored program units for Oracle Databases 💰 🔒.
+- [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) - Complete and powerful database management, admin and development tool for PostgreSQL 💰 🔒.
 - [Querybook](https://github.com/pinterest/querybook) - Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 - [Slashbase](https://github.com/slashbaseide/slashbase) - The open-source collaborative IDE for your databases. Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser.
-- [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - Integrated environment for managing any SQL infrastructure, for SQL Server and Azure SQL Databases.
-- [Toad](https://www.quest.com/toad/) - Premier database solution for developers, admins and data analysts. Manage complex database changes with a single database management tool.
-- [Toad Edge](https://www.toadworld.com/products/toad-edge) - Simplified database development tool for MySQL and PostgreSQL.
+- [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - Integrated environment for managing any SQL infrastructure, for SQL Server and Azure SQL Databases 🔒.
+- [Toad](https://www.quest.com/toad/) - Premier database solution for developers, admins and data analysts. Manage complex database changes with a single database management tool 💰 🔒.
+- [Toad Edge](https://www.toadworld.com/products/toad-edge) - Simplified database development tool for MySQL and PostgreSQL 💰 🔒.
 - [TOra](https://github.com/tora-tool/tora) - Open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
-- [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
+- [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE 💰 🔒.
 - [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
 
 
@@ -138,6 +139,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [pg_activity](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
 - [pg_top](https://github.com/markwkm/pg_top) - Top for PostgreSQL.
 - [pspg](https://github.com/okbob/pspg) - PostgreSQL Pager.
+- [diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous PostgreSQL migration patterns. It works seamlessly with PostgreSQL SQL files and integrates natively with projects using Diesel and SQLx.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
 - [sqlite-utils](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
 - [SQLLine](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
@@ -181,6 +183,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Azimutt](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 - [ChartDB](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [DrawDB](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. 
+- [DrawSQL](https://drawsql.app) - Online database schema diagram editor with SQL import, AI generation, and real-time team collaboration.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 - [Liam ERD](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
@@ -214,6 +217,7 @@ Building API for your Data
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
 - [Graphweaver](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on PostgreSQL with fine grained access control, also trigger webhooks on database events.
+- [JdbcREST](https://github.com/synthesized-io/jdbcrest/) - REST API for any JDBC-backed database, a PostgREST clone written in Java.
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
 - [Prisma](https://github.com/prismagraphql/prisma) - Turns your database into a realtime GraphQL API.
 - [PostGraphile](https://github.com/graphile/postgraphile) - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.
@@ -232,7 +236,7 @@ Low-code and no-code platforms for application building
 - [Budibase](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
 - [ILLA Cloud](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 - [Nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [Saltcorn](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
+- [Saltcorn](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web database applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 - [SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [Tooljet](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
@@ -304,7 +308,7 @@ Low-code and no-code platforms for application building
 - [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - PostgreSQL extension and service for automated failover and high-availability.
 - [pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
 - [pgslice](https://github.com/ankane/pgslice) - PostgreSQL partitioning as easy as pie.
-- [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - High-Availibility for PostgreSQL, based on industry references Pacemaker and Corosync.
+- [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - High-Availability for PostgreSQL, based on industry references Pacemaker and Corosync.
 - [autobase](https://github.com/vitabaks/autobase) - Open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
@@ -357,6 +361,11 @@ Low-code and no-code platforms for application building
 - [SQLLineage](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
 - [TSQLLint](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
+### Code Generators
+- [sqlc](https://sqlc.dev) - SQL-first code generator producing type-safe bindings for various languages and various databases.
+- [SQLDelight](https://sqldelight.github.io/sqldelight) - SQL-first code generator producing type-safe bindings for Kotlin and various databases.
+- [pGenie](https://pgenie.io) - SQL-first code generator producing type-safe bindings for various languages and specializing on the PostgreSQL database.
+
 ### Extensions
 - [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
 
@@ -398,6 +407,7 @@ Run SQL queries against anything
 - [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
+- [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq.
 - [Steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
 - [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
@@ -418,14 +428,14 @@ Learning and puzzles for SQL
 - [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
 ### Plan
-- [pev2](https://github.com/dalibo/pev2) - A Vue.js component to show a graphical vizualization of a PostgreSQL execution plan.
+- [pev2](https://github.com/dalibo/pev2) - A Vue.js component to show a graphical visualization of a PostgreSQL execution plan.
 - [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for PostgreSQL `EXPLAIN ANALYZE` output.
 
 ### Scripts
 Useful SQL-scripts for various purposes
 - [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
 - [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
-- [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
+- [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to measure statistical bloat in indexes and tables for PostgreSQL.
 - [pgWikiDont](https://gitlab.com/depesz/pgWikiDont) - SQL test that checks if your database follows rules from <https://wiki.postgresql.org/wiki/Don't_Do_This>.
 - [pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
 - [PostgreSQL cheat sheet](https://postgrescheatsheet.com) - Useful SQL-scripts and commands by <timescale.com>.
@@ -470,7 +480,7 @@ Useful SQL-scripts for various purposes
 - [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [pgsync](https://github.com/ankane/pgsync) - Sync PostgreSQL data between databases.
 - [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
-- [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream PostgreSQL changes atleast-once over websockets, using PostgreSQL logical decoding feature.
+- [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream PostgreSQL changes at-least-once over websockets, using PostgreSQL logical decoding feature.
 - [repmgr](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
 ### Compare
